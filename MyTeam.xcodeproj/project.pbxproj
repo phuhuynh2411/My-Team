@@ -64,6 +64,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		243105CC2746594F00BD201F /* TeamView */ = {
+			isa = PBXGroup;
+			children = (
+				2488EEAA2746483C009767F7 /* MyTeamListView.swift */,
+				2488EEAC27464870009767F7 /* PeopleRowView.swift */,
+				24C19318274651260041C0CB /* MyTeamDetailView.swift */,
+			);
+			path = TeamView;
+			sourceTree = "<group>";
+		};
+		243105CD2746596200BD201F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2488EE9427464170009767F7 /* People.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		243105CE2746597700BD201F /* View Model */ = {
+			isa = PBXGroup;
+			children = (
+				2488EEAE27464B26009767F7 /* MyTeamListViewModel.swift */,
+			);
+			path = "View Model";
+			sourceTree = "<group>";
+		};
 		2488EE7A27464140009767F7 = {
 			isa = PBXGroup;
 			children = (
@@ -86,11 +112,9 @@
 			isa = PBXGroup;
 			children = (
 				2488EE8627464140009767F7 /* MyTeamApp.swift */,
-				2488EE9427464170009767F7 /* People.swift */,
-				2488EEAA2746483C009767F7 /* MyTeamListView.swift */,
-				2488EEAE27464B26009767F7 /* MyTeamListViewModel.swift */,
-				2488EEAC27464870009767F7 /* PeopleRowView.swift */,
-				24C19318274651260041C0CB /* MyTeamDetailView.swift */,
+				243105CC2746594F00BD201F /* TeamView */,
+				243105CE2746597700BD201F /* View Model */,
+				243105CD2746596200BD201F /* Model */,
 				2488EE962746425C009767F7 /* Resources */,
 				2488EE8A27464142009767F7 /* Assets.xcassets */,
 				2488EE8C27464142009767F7 /* Preview Content */,

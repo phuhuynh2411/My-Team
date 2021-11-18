@@ -26,11 +26,10 @@ struct PeopleRowView: View {
             .clipShape(Circle())
                         
             Text(people.name)
-            
+            Spacer()
             Text(people.position)
                 .foregroundColor(.gray)
             
-            Spacer()
         }
     }
 }
