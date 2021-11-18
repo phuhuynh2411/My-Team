@@ -11,7 +11,9 @@ import SwiftUI
 struct MyTeamApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyTeamListView(viewModel:
+                            MyTeamListViewModel(listPeople: SampleData.listPeople())
+            )
         }
     }
 }

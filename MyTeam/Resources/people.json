@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pierre Dillenbourg",
+        "position" : "Full Professor",
+        "office": "RLC D1 740",
+        "email": "pierre.dillenbourg@epfl.ch",
+        "phoneNumber": "+41216932071",
+        "department": "Head of Laboratory",
+        "imageUrl": "https://people.epfl.ch/private/common/photos/links/155704.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Florence Colomb",
+        "position" : "Secretary",
+        "office": "RLC D1 740",
+        "email": "florence.colomb@epfl.ch",
+        "phoneNumber": "+41216932275",
+        "department": "Administrative staff",
+        "imageUrl": "https://people.epfl.ch/private/common/photos/links/157529.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Barbara Bruno",
+        "position" : "Postdoctoral Researcher",
+        "office": "RLC D1 740",
+        "email": "barbara.bruno@epfl.ch",
+        "phoneNumber": "+41216932611",
+        "department": "Post-docs & Research staff",
+        "imageUrl": "https://people.epfl.ch/private/common/photos/links/317081.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Daniel Carnieto Tozadore",
+        "position" : "Scientist",
+        "office": "RLC D1 740",
+        "email": "daniel.tozadore@epfl.ch",
+        "phoneNumber": "+41216936639",
+        "department": "Post-docs & Research staff",
+        "imageUrl": "https://people.epfl.ch/private/common/photos/links/337982.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Richard Lee Davis",
+        "position" : "Postdoctoral Researcher",
+        "office": "RLC D1 740",
+        "email": "richard.davis@epfl.ch",
+        "phoneNumber": "+41216935076",
+        "department": "Post-docs & Research staff",
+        "imageUrl": "https://people.epfl.ch/private/common/photos/links/322697.jpg"
+    }
+]
